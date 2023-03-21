@@ -1,0 +1,21 @@
+Dart Language:
+
+1)DartPad-Online Editor
+2)IntelijIDEA- Offline Editor
+Download - https://www.jetbrains.com/idea/download/#section=linux
+Install
+
+Download Plugins:
+1)Flutter
+2)Dart
+
+Create a new project and select Your Plugin As Dart
+
+it will ask for DART SDK path
+
+Restart your IDE
+
+JDK ->Java Development Kit
+SDK -> Software Development Kit
+NDK ->Native Development Kit
+
