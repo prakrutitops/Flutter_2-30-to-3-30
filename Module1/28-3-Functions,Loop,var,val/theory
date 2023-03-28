@@ -1,1 +1,55 @@
+data type:
+
+int-numeric 
+float-decimal[4 byte]
+char-characters
+double-decimal[8 byte]
+String-"" ,''
+boolean-true,false
+
+int num;
+
+var -> Value change
+val -> value can not change
+
+
+$name ->Value Call
+
+${name} ->String Interpolartion
+
+const ->Final
+
+printf("%d",printf('Tops'));
+
+
+
+= //assign
+a=b
+
+==
+a==b
+
+
+
+12
+
+
+
+1 2 4 8
+0 0 1 1
+
+Loop=>
+
+1 to 10
+
+
+break->5
+
+continue->5
+
+1.Optional Parameters
+2.Named Parameters
+3.Default Parameters
+
+
 
