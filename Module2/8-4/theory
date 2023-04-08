@@ -1,0 +1,21 @@
+lib->dart
+android->kotlin
+ios->swift
+
+
+Types of Widgets:
+1)stateful widget ->it accepts dynamic change
+2)stateless widget-> it doesn't accept dynamic change
+
+
+MaterialApp
+Scaffold
+
+
+3 Page
+
+android
+ios
+flutter
+
+dependency
