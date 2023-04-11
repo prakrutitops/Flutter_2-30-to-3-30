@@ -1,0 +1,28 @@
+Ui(User Interface) Controls:
+
+Text
+TextButton
+ElevatedButton
+
+TextField
+
+Stateless Widget-> As it is
+Stateful Widget->
+
+1)Sign up Form
+
+FirstName
+LastName
+Email
+Password
+Confirm Password
+
+Signup
+Already a memeber?->TextButton
+
+Login Form
+
+Email
+Password
+Login
+Do you want to Signup?->TextButton
