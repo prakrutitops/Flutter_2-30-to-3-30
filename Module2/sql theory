@@ -1,0 +1,53 @@
+SQL:Structured query language
+MYSQL :Database
+
+Crud Operations:Query
+
+Types of commands in MYSQL
+1)DDL:Data Definition language
+->create,alter,drop,truncate,rename
+
+2)DML:Data Manipualtion language
+->insert,update,delete
+
+3)DQL:Data Query Language
+->select
+
+4)DCL:Data Control Language
+->rollback,commit
+
+Windows->WAMP
+W->Windows
+A->Apache
+M->Mysql
+P->Php
+
+Linux->LAMP
+L->Linux
+A->Apache
+M->Mysql
+P->Php
+
+
+Mac->MAMP
+M->Mac
+A->Apache
+M->Mysql
+P->Php
+
+XAMPP
+X->Cross Platform
+A->Apache
+M->Mysql
+P->Php
+P->perl
+
+Database -> 
+table ->
+
+
+
+
+
+
+
